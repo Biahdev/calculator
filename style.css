@@ -22,7 +22,7 @@ body {
   padding-top: 100px;
 }
 
-#calculadora {
+#calculator {
   width: 280px;
   margin-top: 40px;
   height: 600px;
@@ -34,7 +34,6 @@ body {
   grid-template-rows: 200px 370px;
   padding: 20px;
 }
-
 
 #display {
   color: var(--white);
@@ -51,9 +50,6 @@ body {
   grid-template-columns: repeat(4, 1fr);
   place-items: center ;
 
- 
-
- 
 }
 
 #numbers button {
@@ -63,16 +59,17 @@ body {
   height: 40px;
   font-size: 20px;
   color: var(--white);
+  cursor: pointer;
   
 
 }
 
-.simbolos{
+.symbols{
   color:var(--green) !important;
   font-size: 23px !important;
 }
 
-.igual{
+.equal{
   background-color: var(--green) !important;
   border: none;
   color: var(--dark-green)!important;

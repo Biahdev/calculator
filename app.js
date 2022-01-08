@@ -10,13 +10,13 @@ buttons.forEach(function (b) {
     const bValue = e.target.value;
     array.push(bValue);
     arrayConta = array.join("");
-    const igual = e.target.className.includes("igual");
-    const limpar = e.target.className.includes("limpar");
-    if (igual) {
+    const equal = e.target.className.includes("equal");
+    const clean = e.target.className.includes("clean");
+    if (equal) {
       result.innerHTML = "";
       result.innerHTML = eval(arrayConta);
       array = [];
-    } else if (limpar) {
+    } else if (clean) {
       result.innerHTML = "";
       array = [];
     } else {
@@ -30,7 +30,7 @@ const btnResultado = document.getElementById("resultado");
 
 
 const img = document.getElementById("icon");
-const calc = document.getElementById("calculadora");
+const calc = document.getElementById("calculator");
 
 img.addEventListener('click', (e) => {
   const src = img.getAttribute("src")
