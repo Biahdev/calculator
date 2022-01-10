@@ -23,9 +23,6 @@ A very basic calculator application created with JavaSript.
 ## 🖥️ Demo
 
 
-## 🎨 Layout
-<img src="https://github.com/BiahDev/Calculator/blob/main/img/layout.png"/>
-
 ## ✨ Features
 - a
 - b
