@@ -1,10 +1,10 @@
 <h1 align="center">
-  <span>Calculadora </span>
+  Calculator
 </h1>
 
 <h4 align="center"> 
   <!--   Status do projeto -->
-	🚧  Ecoleta • Andamento  🚧
+	🚧  Calculator • In progress  🚧
 </h4>
 
 <!-- Sumarios dos projeto  -->
@@ -16,14 +16,15 @@
 </p>
 
 
+## 📖 About the project
 
-## 📖 Sobre o projeto
-
- Uma calculadora simples
+A very basic calculator application created with JavaSript.
 
 ## 🖥️ Demo
 
+
 ## 🎨 Layout
+<img src="https://github.com/BiahDev/Calculator/blob/main/img/layout.png"/>
 
 ## ✨ Features
 - a
@@ -31,17 +32,21 @@
 
 
 ## 💫 Roadmap
-- [X] coiasdads
-- [ ] dasdas
+- [X] Operadores básicos
+- [X] Clear function
+- [ ] Apagar o ultimo digito
+- [ ] Exponencial
+- [ ] Adicionar o Pi ou %
+- [ ] Adcicionar / trocar %
 
 
-## 🛠 Como executar o projeto
+## 🛠 How to run the project
 
 Execute o aquivo index.html ou 
 
 ## ⚡ Tech Stack
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in building the project:
 
 ### Front-end
 - HTML5
@@ -49,14 +54,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - JavaScript
 
 
-### Utilitários
+### Utilities
 -   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo](https://www.figma.com/file/Dy9iGCf7MS82C8ngC3PoQi/DailyUI---004-(Calculator)-(Community)?node-id=20%3A226)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
 
 ---
 
-##  🦸 Autora
-<p>Feito com ❤️ por Ana Beatriz, entre em contato! &nbsp;</p> 
+##  🦸 author
+<p>Made with ❤️ by Ana Beatriz, ping me! &nbsp;</p> 
 
 [![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
 [![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
