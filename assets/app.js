@@ -8,6 +8,10 @@ const clean = () => {
 	result.innerText = '';
 };
 
+const deleteLast = () => {
+	result.innerText = result.innerText.slice(0, -1)
+}
+
 const equal = () => {
 	if (!result.innerText) {
 		result.innerText = 'Number first ';
@@ -19,6 +23,7 @@ const equal = () => {
 		result.innerText = eval(finalResult);
 	}
 };
+
 
 // --> DarkMode
 

@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
   <!--   Status do projeto -->
-	🚧  Calculator • In progress  🚧
+	🚧 Calculator • In progress 🚧
 </h4>
 
 <!-- Sumarios dos projeto  -->
@@ -23,26 +23,11 @@ A very basic calculator application created with JavaSript.
 ## 🖥️ Demo
 
 
-## ✨ Features
-- a
-- b
-
-
-## 💫 Roadmap
-- [X] Operadores básicos
-- [X] Clear function
-- [ ] Apagar o ultimo digito
-- [ ] Exponencial
-- [ ] Adicionar o Pi ou %
-- [ ] Adcicionar / trocar %
-
-
 ## 🛠 How to run the project
 
 Execute o aquivo index.html ou 
 
 ## ⚡ Tech Stack
-
 The following tools were used in building the project:
 
 ### Front-end
@@ -50,12 +35,16 @@ The following tools were used in building the project:
 - CSS3
 - JavaScript
 
-
 ### Utilities
--   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo](https://www.figma.com/file/Dy9iGCf7MS82C8ngC3PoQi/DailyUI---004-(Calculator)-(Community)?node-id=20%3A226)**
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
+- Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo](https://www.figma.com/file/Dy9iGCf7MS82C8ngC3PoQi/DailyUI---004-(Calculator)-(Community)?node-id=20%3A226)**
+- Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
 
 ---
+## 💫 Roadmap
+- [X] Operadores básicos
+- [X] Clear function
+- [X] Apagar o ultimo digito
+- [X] Adicionar a %
 
 ##  🦸 author
 <p>Made with ❤️ by Ana Beatriz, ping me! &nbsp;</p> 

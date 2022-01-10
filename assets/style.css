@@ -37,7 +37,7 @@ body {
 	color: var(--white);
 	display: grid;
 	place-items: end;
-	font-size: 50px;
+	font-size: 35px;
 	padding-bottom: 10px;
 }
 
@@ -47,6 +47,10 @@ body {
 	grid-row: 2 / 3;
 	grid-template-columns: repeat(4, 1fr);
 	place-items: center;
+}
+#delete{
+	width: 65% ;
+	padding-top: 5px;
 }
 
 #numbers button {
