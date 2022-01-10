@@ -22,6 +22,8 @@ A very basic calculator application created with JavaSript.
 
 ## 🖥️ Demo
 
+<img align="left" src="" width=""/>
+<img align="right" src="" width=""/>
 
 ## 🛠 How to run the project
 
@@ -45,6 +47,8 @@ The following tools were used in building the project:
 - [X] Clear function
 - [X] Apagar o ultimo digito
 - [X] Adicionar a %
+- [] Subir para o GitHub Pages
+
 
 ##  🦸 author
 <p>Made with ❤️ by Ana Beatriz, ping me! &nbsp;</p> 
