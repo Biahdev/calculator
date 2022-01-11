@@ -1,18 +1,12 @@
 <h1 align="center">
-  Calculator
+ My first Calculator 🔢
 </h1>
 
-<h3 align="center"> 
-🚧 Calculator • In progress 🚧
-</h3>
 
 <img align="right" src="https://github.com/BiahDev/Calculator/blob/main/img/darkCalc.gif" width="37%"/>
 
 ## 📖 About the project
-A basic calculator application created with JavaSript.
-
-## 🛠 How to run the project
-Run the index.html file or --link--
+A basic calculator app that was built with JavaScript. To use run the index.html file or see it at [GitHub Pages](https://biahdev.github.io/Calculator/)
 
 ## ⚡️ Tech Stack
 The following tools were used in building the project:
@@ -31,7 +25,7 @@ The following tools were used in building the project:
 - [X] Clear function
 - [X] Erase the last digit
 - [X] Add %
-- [ ] GitHub Pages
+- [X] GitHub Pages
 
 
 ## 🔍 Where to find me:
