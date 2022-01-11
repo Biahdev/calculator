@@ -1,21 +1,10 @@
 <h1 align="center">
-🧮 Calculator 🧮
+  Calculator
 </h1>
 
 <h3 align="center"> 
 🚧 Calculator • In progress 🚧
 </h3>
-
-
-<p align="center">
- <a href="#-about-the-project"> About the project </a> •
- <a href="#-demo"> Demo </a> •
- <a href="#-how-to-run-the-projec"> How to run the project </a> • 
- <a href="#-tech-stack"> Teck Stack </a> • 
- <a href="#-roadmap"> Roadmap </a> • 
- <a href="#-autor"> Autor </a>
-</p>
-
 
 <img align="right" src="https://github.com/BiahDev/Calculator/blob/main/img/darkCalc.gif" width="37%"/>
 
@@ -37,7 +26,7 @@ The following tools were used in building the project:
 - Prototype:  **[Figma](https://www.figma.com/)**  →  **[Prototype](https://www.figma.com/file/Dy9iGCf7MS82C8ngC3PoQi/DailyUI---004-(Calculator)-(Community)?node-id=20%3A226)**
 - Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
  
-## 💫 Roadmap
+## 🗺️ Roadmap
 - [X] Basic operators
 - [X] Clear function
 - [X] Erase the last digit
@@ -45,7 +34,8 @@ The following tools were used in building the project:
 - [ ] GitHub Pages
 
 
-## 🦸 Author
+## 🔍 Where to find me:
+
 <p>Made with ❤️ by Ana Beatriz, ping me! &nbsp;</p> 
 
 [![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
