@@ -1,11 +1,10 @@
 <h1 align="center">
- My first Calculator 🔢
+ Calculator 🔢
 </h1>
 
 
 <img align="right" src="https://github.com/BiahDev/Calculator/blob/main/img/darkCalc.gif" width="37%"/>
 
-## 📖 About the project
 A basic calculator app that was built with JavaScript. To use run the index.html file or see it at [GitHub Pages](https://biahdev.github.io/Calculator/)
 
 ## ⚡️ Tech Stack
