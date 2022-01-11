@@ -2,34 +2,19 @@
   Calculator
 </h1>
 
-<h4 align="center"> 
-  <!--   Status do projeto -->
-	🚧 Calculator • In progress 🚧
-</h4>
+<h3 align="center"> 
+🚧 Calculator • In progress 🚧
+</h3>
 
-<!-- Sumarios dos projeto  -->
-<p align="center">
-<!--    -->
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Demo</a> •
- <a href="#-layout">Layout</a>
-</p>
-
+<img align="right" src="https://github.com/BiahDev/Calculator/blob/main/img/darkCalc.gif" width="37%"/>
 
 ## 📖 About the project
-
-A very basic calculator application created with JavaSript.
-
-## 🖥️ Demo
-
-<img align="left" src="" width=""/>
-<img align="right" src="" width=""/>
+A basic calculator application created with JavaSript.
 
 ## 🛠 How to run the project
+Run the index.html file or --link--
 
-Execute o aquivo index.html ou 
-
-## ⚡ Tech Stack
+## ⚡️ Tech Stack
 The following tools were used in building the project:
 
 ### Front-end
@@ -38,19 +23,19 @@ The following tools were used in building the project:
 - JavaScript
 
 ### Utilities
-- Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo](https://www.figma.com/file/Dy9iGCf7MS82C8ngC3PoQi/DailyUI---004-(Calculator)-(Community)?node-id=20%3A226)**
+- Prototype:  **[Figma](https://www.figma.com/)**  →  **[Prototype](https://www.figma.com/file/Dy9iGCf7MS82C8ngC3PoQi/DailyUI---004-(Calculator)-(Community)?node-id=20%3A226)**
 - Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
-
----
-## 💫 Roadmap
-- [X] Operadores básicos
+ 
+## 🗺️ Roadmap
+- [X] Basic operators
 - [X] Clear function
-- [X] Apagar o ultimo digito
-- [X] Adicionar a %
-- [] Subir para o GitHub Pages
+- [X] Erase the last digit
+- [X] Add %
+- [ ] GitHub Pages
 
 
-##  🦸 author
+## 🔍 Where to find me:
+
 <p>Made with ❤️ by Ana Beatriz, ping me! &nbsp;</p> 
 
 [![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
@@ -59,6 +44,3 @@ The following tools were used in building the project:
 [![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-de-souza-a74a0a183/)
 [![twitter](https://img.shields.io/badge/twitter-111?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BiahDev)
 <a href="mailto:bia8717@hotmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-<!-- [⬆ Voltar ao topo](#Sobre-o-projeto)<br> -->
