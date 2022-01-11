@@ -33,8 +33,8 @@ const buttons = Array.from(document.getElementsByClassName('button'));
 
 img.addEventListener('click', (e) => {
 	const src = img.getAttribute('src');
-	if (src == '../img/dark.svg') {
-		img.setAttribute('src', '../img/light.svg');
+	if (src == 'img/dark.svg') {
+		img.setAttribute('src', 'img/light.svg');
 
 		calc.style.backgroundColor = '#EBF2FA';
 		result.style.color = '#002A3C';
@@ -43,7 +43,7 @@ img.addEventListener('click', (e) => {
 			e.style.color = '#002A3C';
 		});
 	} else {
-		img.setAttribute('src', '../img/dark.svg');
+		img.setAttribute('src', 'img/dark.svg');
 
 		calc.style.backgroundColor = '#002A3C';
 		result.style.color = '#EBF2FA';
