@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/BiahDev/Calculator/blob/main/img/darkCalc.gif" width="37%"/>
 
-A basic calculator app that was built with JavaScript. To use run the index.html file or see it at [GitHub Pages](https://biahdev.github.io/Calculator/)
+A basic calculator app that was built with JavaScript. To use run the index.html file or see it at [GitHub Pages](https://biahdev.github.io/calculator/)
 
 ## ⚡️ Tech Stack
 The following tools were used in building the project:
