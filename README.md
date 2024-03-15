@@ -35,5 +35,4 @@ The following tools were used in building the project:
 [![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
 [![discord](https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/biahdev)
 [![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-de-souza-a74a0a183/)
-[![twitter](https://img.shields.io/badge/twitter-111?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BiahDev)
 <a href="mailto:bia8717@hotmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
