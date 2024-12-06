@@ -13,16 +13,25 @@ const deleteLast = () => {
 }
 
 const equal = () => {
-	if (!result.innerText) {
-		result.innerText = 'Number first ';
-		setTimeout(() => {
-			result.innerText = '';
-		}, 900);
-	} else {
-		let finalResult = result.innerText;
-		result.innerText = eval(finalResult);
-	}
+    if (!result.innerText) {
+        result.innerText = 'Number first ';
+        setTimeout(() => {
+            result.innerText = '';
+        }, 900);
+    } else {
+        let finalResult = result.innerText;
+        if (/^[\d+\-*/().\s]*$/.test(finalResult)) {
+            try {
+                result.innerText = Function('"use strict"; return (' + finalResult + ')')();
+            } catch (e) {
+                result.innerText = 'Error';
+            }
+        } else {
+            result.innerText = 'Invalid Input';
+        }
+    }
 };
+
 
 
 // --> DarkMode
