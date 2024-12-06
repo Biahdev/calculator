@@ -21,7 +21,7 @@ body {
 }
 
 #calculator {
-	width: 280px;
+	width: 325px;
 	height: 600px;
 	background-color: var(--dark-green);
 	box-shadow: 20px 15px 40px 0 rgba(0, 0, 0, 0.3);
@@ -77,4 +77,6 @@ body {
 #mode {
 	place-self: start;
 	cursor: pointer;
+	padding-top: 10px;
+	padding-left: 15px;
 }
