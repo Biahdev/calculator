@@ -31,8 +31,5 @@ The following tools were used in building the project:
 
 <p>Made with ❤️ by Ana Beatriz, ping me! &nbsp;</p> 
 
-[![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
-[![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
-[![discord](https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/biahdev)
-[![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-de-souza-a74a0a183/)
-<a href="mailto:bia8717@hotmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abeatrizdev/)
+<a href="mailto:abeatriz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
